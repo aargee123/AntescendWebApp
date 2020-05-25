@@ -25,7 +25,7 @@ const Team = () => {
                 <div className="tc">
                     <img src = {ayush} className="br-100 h4 w4 dib ba b--black-05 pa2" alt="Ayush Yadav"/>
                     <h1 className="f4 mb2">Ayush Yadav</h1>
-                    <h2 className="f5 fw4 mt0">CEO (Chief Executive Officer)</h2>
+                    <h2 className="f5 fw4 mt0">Founder & CEO (Chief Executive Officer)</h2>
                     <a href ='https://www.instagram.com/ayush_05_12/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
                 </div>
             </article>
@@ -33,7 +33,7 @@ const Team = () => {
                 <div className="tc">
                     <img src = {aastha} className="br-100 h4 w4 dib ba b--black-05 pa2" alt="Aastha Bhardwaj"/>
                     <h1 className="f4 mb2">Aastha Bhardwaj</h1>
-                    <h2 className="f5 fw4 mt0">Co-Founder</h2>
+                    <h2 className="f5 fw4 mt0">CHRO(Chief Human Resource Officer)</h2>
                     <a href ='https://www.instagram.com/aasthabhardwaj_6/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
                 </div>
             </article>

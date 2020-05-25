@@ -26,7 +26,7 @@ const Home = () => {
                     </div>
                     <div className = 'w-50'>
                         <p className = 'f1 white'>Reach Us</p>
-                            <p className = 'f4 white'><span role="img" aria-label="phone">📞</span>+91-79069 02528</p>
+                            <p className = 'f4 white'><span role="img" aria-label="phone">📞</span>+91-70887 18122</p>
                             <p className = 'f4 white link grow pointer'><span role="img" aria-label="email">📧</span>antescendllp4@gmail.com</p>
                         <p className = 'f4 white link'></p>
                     </div>
