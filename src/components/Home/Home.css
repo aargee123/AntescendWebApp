@@ -1,7 +1,25 @@
 .fl{
     display : inline-flex;
+    flex-wrap: wrap;
 }
 
 .design {
     margin-top: 110px;
+}
+
+.des{
+    width : 50%;
+}
+
+.de {
+    width : 50%;
+}
+
+@media only screen and (max-width : 600px){
+    .des{
+        width : 100%;
+    }
+    .de{
+        width : 100%;
+    }
 }

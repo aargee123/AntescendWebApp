@@ -14,7 +14,7 @@ const Home = () => {
                 <p className = 'f3 b'>Where passion meets profession</p>
             </center>
                 <article className="bg-white design fl br3 ba b--black-10">
-                    <div className = 'w-50 bg-navy' >
+                    <div className = 'des bg-navy' >
                         <p className = 'f1 white'>Antescend</p>
                         <p className = 'f4 white'>
                         Welcome to antescend, your number one source for all projects. 
@@ -23,7 +23,7 @@ const Home = () => {
                         If you have any questions or comments, please don't hesitate to contact us.
                         </p>
                     </div>
-                    <div className = 'w-50 bg-navy '>
+                    <div className = 'de bg-navy '>
                         <p className = 'f1 white'>Reach Us</p>
                             <p className = 'f4 white'><span role="img" aria-label="phone">📞</span>+91-70887 18122</p>
                             <p className = 'f4 white'><span role="img" aria-label="email">📧</span>antescendllp4@gmail.com</p>
