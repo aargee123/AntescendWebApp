@@ -20,7 +20,7 @@ class App extends React.Component{
 
   render(){
     return (
-      <div className = 'App'>
+      <div className = 'App w-100'>
         <ParticlesBg type="cobweb" bg={true} />
         <Header onRouteChange = {this.onRouteChange}/>
         {
