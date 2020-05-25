@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/AntescendWebApp/static/css/main.2d7c3629.chunk.css",
-    "main.js": "/AntescendWebApp/static/js/main.010eedf1.chunk.js",
-    "main.js.map": "/AntescendWebApp/static/js/main.010eedf1.chunk.js.map",
+    "main.css": "/AntescendWebApp/static/css/main.b9ae8c04.chunk.css",
+    "main.js": "/AntescendWebApp/static/js/main.6c0e1202.chunk.js",
+    "main.js.map": "/AntescendWebApp/static/js/main.6c0e1202.chunk.js.map",
     "runtime-main.js": "/AntescendWebApp/static/js/runtime-main.53f53b15.js",
     "runtime-main.js.map": "/AntescendWebApp/static/js/runtime-main.53f53b15.js.map",
     "static/css/2.3c03f26f.chunk.css": "/AntescendWebApp/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.2937d8ae.chunk.js": "/AntescendWebApp/static/js/2.2937d8ae.chunk.js",
-    "static/js/2.2937d8ae.chunk.js.map": "/AntescendWebApp/static/js/2.2937d8ae.chunk.js.map",
+    "static/js/2.86402da5.chunk.js": "/AntescendWebApp/static/js/2.86402da5.chunk.js",
+    "static/js/2.86402da5.chunk.js.map": "/AntescendWebApp/static/js/2.86402da5.chunk.js.map",
     "index.html": "/AntescendWebApp/index.html",
-    "precache-manifest.d207fff95f7bdba54684d68242a6ad84.js": "/AntescendWebApp/precache-manifest.d207fff95f7bdba54684d68242a6ad84.js",
+    "precache-manifest.56aa51fdd8a08792e4e18f1b4131e190.js": "/AntescendWebApp/precache-manifest.56aa51fdd8a08792e4e18f1b4131e190.js",
     "service-worker.js": "/AntescendWebApp/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/AntescendWebApp/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.2d7c3629.chunk.css.map": "/AntescendWebApp/static/css/main.2d7c3629.chunk.css.map",
-    "static/js/2.2937d8ae.chunk.js.LICENSE.txt": "/AntescendWebApp/static/js/2.2937d8ae.chunk.js.LICENSE.txt",
+    "static/css/main.b9ae8c04.chunk.css.map": "/AntescendWebApp/static/css/main.b9ae8c04.chunk.css.map",
+    "static/js/2.86402da5.chunk.js.LICENSE.txt": "/AntescendWebApp/static/js/2.86402da5.chunk.js.LICENSE.txt",
     "static/media/InstagramLogo.png": "/AntescendWebApp/static/media/InstagramLogo.a0d02930.png",
     "static/media/aastha.jpg": "/AntescendWebApp/static/media/aastha.d27cd1ba.jpg",
     "static/media/ayush.JPEG": "/AntescendWebApp/static/media/ayush.0d31601e.JPEG",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.53f53b15.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.2937d8ae.chunk.js",
-    "static/css/main.2d7c3629.chunk.css",
-    "static/js/main.010eedf1.chunk.js"
+    "static/js/2.86402da5.chunk.js",
+    "static/css/main.b9ae8c04.chunk.css",
+    "static/js/main.6c0e1202.chunk.js"
   ]
 }
