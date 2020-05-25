@@ -15,18 +15,18 @@ const Team = () => {
         <div className = 'lineup'>
            <article className="w5 mh2 design br3 pa2 pa4-ns mv3 mh3 grow pointer">
                 <div className="tc">
-                    <img src = {kushal} className="br-100 h4 w4 dib ba b--black-05 pa2" alt=" Kushal Ranga"/>
-                    <h1 className="f4 mb2">Kushal Ranga</h1>
-                    <h2 className="f5 fw4 mt0">Co-Founder</h2>
-                    <a href ='https://www.instagram.com/kushal.44/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
+                    <img src = {ayush} className="br-100 h4 w4 dib ba b--black-05 pa2" alt=" Kushal Ranga"/>
+                    <h1 className="f4 mb2">Ayush Yadav</h1>
+                    <h2 className="f5 fw4 mt0">Founder & CEO (Chief Executive Officer)</h2>
+                    <a href ='https://www.instagram.com/ayush_05_12/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
                 </div>
             </article>
             <article className="w5 mh2 design br3 pa2 pa4-ns mv3 mh3 grow pointer">
                 <div className="tc">
-                    <img src = {ayush} className="br-100 h4 w4 dib ba b--black-05 pa2" alt="Ayush Yadav"/>
-                    <h1 className="f4 mb2">Ayush Yadav</h1>
-                    <h2 className="f5 fw4 mt0">Founder & CEO (Chief Executive Officer)</h2>
-                    <a href ='https://www.instagram.com/ayush_05_12/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
+                    <img src = {kushal} className="br-100 h4 w4 dib ba b--black-05 pa2" alt="Ayush Yadav"/>
+                    <h1 className="f4 mb2">Kushal Ranga</h1>
+                    <h2 className="f5 fw4 mt0">Co-Founder</h2>
+                    <a href ='https://www.instagram.com/kushal.44/'><img className = 'dim' alt = 'instagram' src = {instagramIcon} height = '20px' width = '20px'/></a>
                 </div>
             </article>
             <article className="w5 mh2 design br3 pa2 pa4-ns mv3 mh3 grow pointer">
