@@ -1,10 +1,22 @@
 import React from 'react';
 import Home from './components/Home/Home';
-import ParticlesBg from 'particles-bg';
 import Header from './components/Header/Header';
 import Projects from './components/Projects/Projects';
 import Team from './components/Team/Team';
+import Particles from 'react-particles-js';
 import './App.css';
+
+const part = {
+  particles : {
+    number : {
+      value : 60,
+      density : {
+        enable : true,
+        value_area : 800
+      }
+    }
+  }
+}
 
 class App extends React.Component{
   constructor(){
@@ -21,7 +33,8 @@ class App extends React.Component{
   render(){
     return (
       <div className = 'App w-100'>
-        <ParticlesBg type="cobweb" bg={true} />
+          <Particles className = 'particles'
+                params={part} />
         <Header onRouteChange = {this.onRouteChange}/>
         {
           this.state.route === 'home' 
