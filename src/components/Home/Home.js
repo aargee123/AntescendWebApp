@@ -7,8 +7,8 @@ const Home = () => {
     return(
         <div>
             <center>
-            <Tilt className="Tilt" options={{ max : 50 }} style={{ height: 300, width: 500 }} >
-                <img alt = 'logo' src = {logo} height = '300px' width = '500px'/>
+            <Tilt className="Tilt heightandwidth" options={{ max : 50 }} style={{ height: 300, width: 500 }} >
+                <img alt = 'logo' src = {logo} className = 'heightandwidth'/>
             </Tilt>
                 <p className = 'f2 b'>Research , Design , Innovate & Develop</p>
                 <p className = 'f3 b'>Where passion meets profession</p>
