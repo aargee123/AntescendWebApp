@@ -1,35 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f770feb1f0e907fd454f0b33e1be29f",
+    "revision": "a9cec526508e17f7a4f15ce3a7f2ae1a",
     "url": "/AntescendWebApp/index.html"
   },
   {
-    "revision": "ae15434c38d25455dd01",
+    "revision": "c8db0d55d69514794db3",
     "url": "/AntescendWebApp/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c456855f9f1e205dd620",
-    "url": "/AntescendWebApp/static/css/main.b9ae8c04.chunk.css"
+    "revision": "631c434645ef450455d5",
+    "url": "/AntescendWebApp/static/css/main.6ba7e963.chunk.css"
   },
   {
-    "revision": "ae15434c38d25455dd01",
-    "url": "/AntescendWebApp/static/js/2.86402da5.chunk.js"
+    "revision": "c8db0d55d69514794db3",
+    "url": "/AntescendWebApp/static/js/2.b5ea8694.chunk.js"
   },
   {
-    "revision": "6dea14eab83053243865ab6f2019f727",
-    "url": "/AntescendWebApp/static/js/2.86402da5.chunk.js.LICENSE.txt"
+    "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
+    "url": "/AntescendWebApp/static/js/2.b5ea8694.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c456855f9f1e205dd620",
-    "url": "/AntescendWebApp/static/js/main.6c0e1202.chunk.js"
+    "revision": "631c434645ef450455d5",
+    "url": "/AntescendWebApp/static/js/main.3a1d18f4.chunk.js"
   },
   {
     "revision": "edd3d241bfa54554f964",
     "url": "/AntescendWebApp/static/js/runtime-main.53f53b15.js"
   },
   {
+    "revision": "42990140a6eec0476b940cd439287806",
+    "url": "/AntescendWebApp/static/media/Background.42990140.jpg"
+  },
+  {
     "revision": "a0d02930b6f072ed06c78cdb9eb6ff0a",
     "url": "/AntescendWebApp/static/media/InstagramLogo.a0d02930.png"
+  },
+  {
+    "revision": "e059d7fd2d095cf1812365b335f7b8b9",
+    "url": "/AntescendWebApp/static/media/Yuvraj.e059d7fd.png"
   },
   {
     "revision": "d27cd1ba5a89a7010d179e630788b929",
@@ -50,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff2c302963bf9648352a03f992605185",
     "url": "/AntescendWebApp/static/media/kushal.ff2c3029.JPEG"
+  },
+  {
+    "revision": "3f3bf6bf69ba5c2e7b96e1879342c8ea",
+    "url": "/AntescendWebApp/static/media/logo.3f3bf6bf.png"
   },
   {
     "revision": "1ed79fd91977accf8f0fc17b309863c3",
