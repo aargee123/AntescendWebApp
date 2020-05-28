@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9533703a2c4b0d1876310cf94e6f3785",
+    "revision": "845d5f604b348436309402dd0d34479c",
     "url": "/AntescendWebApp/index.html"
   },
   {
-    "revision": "c8db0d55d69514794db3",
+    "revision": "6176c42f384e7892d182",
     "url": "/AntescendWebApp/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "456bc15602c6ae88a70d",
-    "url": "/AntescendWebApp/static/css/main.040eb4c2.chunk.css"
+    "revision": "ae68f39138c2eafd9206",
+    "url": "/AntescendWebApp/static/css/main.6f8268da.chunk.css"
   },
   {
-    "revision": "c8db0d55d69514794db3",
-    "url": "/AntescendWebApp/static/js/2.b5ea8694.chunk.js"
+    "revision": "6176c42f384e7892d182",
+    "url": "/AntescendWebApp/static/js/2.4377a3e6.chunk.js"
   },
   {
     "revision": "c97fb91e7dd1c7b19ae67fb152a2e6b2",
-    "url": "/AntescendWebApp/static/js/2.b5ea8694.chunk.js.LICENSE.txt"
+    "url": "/AntescendWebApp/static/js/2.4377a3e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "456bc15602c6ae88a70d",
-    "url": "/AntescendWebApp/static/js/main.5efddc4c.chunk.js"
+    "revision": "ae68f39138c2eafd9206",
+    "url": "/AntescendWebApp/static/js/main.3a361e8a.chunk.js"
   },
   {
     "revision": "edd3d241bfa54554f964",
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AntescendWebApp/static/media/Yuvraj.e059d7fd.png"
   },
   {
-    "revision": "d27cd1ba5a89a7010d179e630788b929",
-    "url": "/AntescendWebApp/static/media/aastha.d27cd1ba.jpg"
-  },
-  {
     "revision": "0d31601ee3efca6b3b59679860eaad9c",
     "url": "/AntescendWebApp/static/media/ayush.0d31601e.JPEG"
   },
@@ -52,16 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AntescendWebApp/static/media/ayushg.9d114b33.JPEG"
   },
   {
-    "revision": "759355f67be64be844e7416ec8b02293",
-    "url": "/AntescendWebApp/static/media/background2.759355f6.jpg"
-  },
-  {
     "revision": "e3c441c561ec0b02a9577cffeab9a537",
     "url": "/AntescendWebApp/static/media/karan.e3c441c5.JPEG"
-  },
-  {
-    "revision": "ff2c302963bf9648352a03f992605185",
-    "url": "/AntescendWebApp/static/media/kushal.ff2c3029.JPEG"
   },
   {
     "revision": "3f3bf6bf69ba5c2e7b96e1879342c8ea",
