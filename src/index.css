@@ -17,7 +17,7 @@ code {
 }
 @media only screen and (max-width : 600px){
   body{
-    background-image: url('./background2.jpg');
+    background: white;
     background-size: inherit;
   }
 }
